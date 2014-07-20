@@ -1,0 +1,1 @@
+{    "enabled" : true,    "context" : "client",    "identifier" : "com.realmmods.UIMod",    "display_name" : "The Realm Community UI Mod",    "description" : "Performs Many changes to game direction and balance",    "author" : "The Realm",    "version" : "3.9.0",    "signature" : "(not yet implemented)"}
