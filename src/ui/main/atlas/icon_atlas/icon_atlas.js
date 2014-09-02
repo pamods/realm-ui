@@ -93,6 +93,7 @@ $(document).ready(function () {
             'orbital_missile',
             'orbital_sniper',
             'orbital_transport',
+			'metal_splat_02',
             'radar_satellite'
         ]);
 
