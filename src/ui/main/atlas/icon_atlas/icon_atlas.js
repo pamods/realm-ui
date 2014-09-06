@@ -9,6 +9,8 @@ $(document).ready(function () {
         self.strategicIconSource = function (string) { return 'img/strategic_icons/' + 'icon_si_' + string + '.png' }
         self.strategicIcons = ko.observableArray([
 			'blip',
+            'control_point_01',
+            'metal_splat_02',
 			'tank_cannon',
 			'tank_heavy_armor',
 			'tank_flamer',
@@ -89,12 +91,13 @@ $(document).ready(function () {
             'solar_array',
             'defense_satellite',
             'orbital_bombardment_platform',
-            'orbtial_fabrication_satellite',
+            'orbital_fabrication_satellite',
             'orbital_missile',
             'orbital_sniper',
             'orbital_transport',
-			'metal_splat_02',
-            'radar_satellite'
+            'radar_satellite',
+            'mining_platform',
+            'control_module'
         ]);
 
         self.sendIconList = function () {
