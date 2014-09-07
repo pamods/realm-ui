@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.realmmods.ui",
+  "id":"realmui",
+  "display_name": "The Realm Community UI mod",
+  "build": "71729",
+  "date": "2014/09/07",
+  "description": "Adds strategic icons for the Realm Community Rebalance mod.",
+  "category": [
+        "in-game",
+        "client-mod",
+		"Strategic-icons"
+    ],
+  "author": "KNight, Liquius, Nanolathe, YourlocalmadSci and Zwiestein000",
+  "version": "1.0.0",
+  "signature": "(not yet implemented)"
+  "forum": "https://forums.uberent.com/threads/wip-the-realm-community-balance-mod.58942/",
+  "icon": "http://pamods.github.io/icons/realmui.png",
+  "priority": 100,
+  "requires": ["realmbalance"]
+    
+}
