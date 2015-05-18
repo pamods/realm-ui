@@ -1,1 +1,20 @@
-{    "enabled" : true,    "context" : "client",    "identifier" : "com.realmmods.UIMod",    "display_name" : "The Realm Community UI Mod",    "description" : "Performs Many changes to game direction and balance",    "author" : "The Realm",    "version" : "3.9.0",    "signature" : "(not yet implemented)"}
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.realmmods.ui",
+  "display_name": "The Realm Community UI mod",
+  "build": "80462",
+  "date": "2015/05/17",
+  "description": "Adds strategic icons for the Realm Community Rebalance mod.",
+  "category": [
+        "in-game",
+        "client-mod",
+    "Strategic-icons"
+    ],
+  "author": "KNight, Liquius, Nanolathe, YourlocalmadSci and Zwiestein000",
+  "version": "prerelease 5",
+  "signature": "(not yet implemented)",
+  "forum": "https://forums.uberent.com/threads/wip-the-realm-community-balance-mod.58942/",
+  "icon": "http://i.imgur.com/uxzLVtB.png",
+  "priority": 100
+}
