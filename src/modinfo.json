@@ -5,6 +5,9 @@
   "display_name": "The Realm Community UI mod",
   "build": "80462",
   "date": "2015/05/17",
+  "dependencies": [
+    "com.pa.realmmods.rebalance"
+  ]  
   "description": "Adds strategic icons for the Realm Community Rebalance mod.",
   "category": [
         "in-game",
