@@ -5,9 +5,6 @@
   "display_name": "The Realm Community UI mod",
   "build": "80462",
   "date": "2015/05/17",
-  "dependencies": [
-    "com.pa.realmmods.rebalance"
-  ],
   "description": "Adds strategic icons for the Realm Community Rebalance mod.",
   "category": [
         "in-game",
@@ -19,5 +16,8 @@
   "signature": "(not yet implemented)",
   "forum": "https://forums.uberent.com/threads/wip-the-realm-community-balance-mod.58942/",
   "icon": "http://i.imgur.com/uxzLVtB.png",
-  "priority": 100
+  "priority": 100,
+  "dependencies": [
+    "com.pa.realmmods.rebalance"
+  ]
 }
